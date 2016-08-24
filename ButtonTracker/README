@@ -1,0 +1,47 @@
+
+Corrie Health
+Button Tracker Application
+
+**************************************** SUMMARY ****************************************
+
+The purpose of this application is to track the total number of buttons that a user has
+pressed. The idea is to use an MVC model to fill in the starting files provided. Feel
+free to deviate from the starting files, but make sure to remain within an MVC model.
+Before reading through the features, make sure to look at the attached wireframes to
+better understand the application.
+
+**************************************** FEATURES ***************************************
+
+- The header in the first table view should display the total number of buttons that
+  have been pressed cumulated over all button groups.
+
+- The first table view should display a list of the titles for each button group, as
+  well as the number of selected buttons in each group (in the format "1/3").
+
+- When a cell is pressed, sugue to a screen that displays all buttons in the groups
+  stacked on top of each other.
+
+- Each button can be selected or deselected, and its state must be saved when moving
+  back and forth between screens. Note that the exact button that has been selected
+  must persist. That is, if "Button 2" has been selected, "Button 2" must be selected
+  the next time the group is loaded. The state does not need persist when the user has
+  killed and reloaded the application.
+
+- The label displaying the number of buttons selected in each group ("1/3") should
+  update when the number of buttons selected in a group has changed.
+
+- As shown in the wireframes, there must be three button groups: "Group 1" has 3 buttons,
+  "Group 2" has 4 buttons, and "Group 3" has 5 buttons.
+
+*************************************** GOOD LUCK! **************************************
+
+Good Luck! And feel free to email/call at anytime of the day with questions!
+
+Gavi Rawson
+914-560-6688
+grawson2@jhu.edu
+
+
+
+
+
